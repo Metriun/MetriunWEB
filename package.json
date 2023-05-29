@@ -5,6 +5,13 @@
   "main": "index.js",
   "scripts": {},
   "author": "Metriun",
+  "keywords": [
+    "Metriun",
+    "Stats",
+    "Insights",
+    "Charts",
+    "Library"
+  ],
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.41.0",
