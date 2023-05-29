@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/metriun.png" alt="Logo" width="80" height="80">
+  <a href="https://metriun.com">
+    <img src="https://raw.githubusercontent.com/Metriun/MetriunWEB/main/images/metriun.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Metriun WEB</h3>

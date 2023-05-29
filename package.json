@@ -1,5 +1,5 @@
 {
-  "name": "metriun-web",
+  "name": "metriunweb",
   "version": "1.0.0",
   "description": "Metriun plugin for the web",
   "main": "index.js",
